@@ -2,7 +2,7 @@
   "name": "login-lecture",
   "version": "1.0.0",
   "main": "app.js",
-  "description": "1",
+  "description": "",
   "bin": {
     "login-lecture": "bin/www.js"
   },
